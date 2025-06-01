@@ -58,3 +58,10 @@ Moves or renames files and directories.
 Clears the terminal screen, giving you a clean view.
 
 
+## Command 10: git status
+
+**Description:**  
+Displays the current status of the working directory and staging area.  
+Shows which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
+
+
