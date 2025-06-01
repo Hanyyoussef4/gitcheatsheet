@@ -15,3 +15,9 @@ Prints the current working directory.
 **Description:**  
 Lists the files and directories in the current location.
 
+
+## Command 3: cd
+
+**Description:**  
+Changes the current working directory to a different folder.
+
