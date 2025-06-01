@@ -33,3 +33,8 @@ Creates a new directory (folder).
 **Description:**  
 Creates a new empty file.
 
+
+## Command 6: rm
+
+**Description:**  
+Deletes files or directories.
