@@ -43,4 +43,11 @@ Deletes files or directories
 ## Command 7: cp
 
 **Description:**
-Copies files or directories.
+Copies files or directories
+
+
+## Command 8: mv
+
+**Description:**  
+Moves or renames files and directories.
+
