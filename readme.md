@@ -65,3 +65,11 @@ Displays the current status of the working directory and staging area.
 Shows which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
 
 
+## Command 11: git add
+
+**Description:**  
+Stages changes (new or modified files) to be committed.  
+You can add specific files or all changes at once.
+
+
+
