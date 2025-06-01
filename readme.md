@@ -85,4 +85,11 @@ You must write a commit message to describe what you changed.
 Uploads your local commits from the current branch to the remote repository (e.g., GitHub).
 
 
+## Command 14: git pull
+
+**Description:**  
+Fetches changes from the remote repository and merges them into your current local branch.  
+It’s a shortcut for `git fetch` + `git merge`.
+
+
 
