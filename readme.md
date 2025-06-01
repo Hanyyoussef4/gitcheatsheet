@@ -72,4 +72,11 @@ Stages changes (new or modified files) to be committed.
 You can add specific files or all changes at once.
 
 
+## Command 12: git commit
+
+**Description:**  
+Saves staged changes to the local repository.  
+You must write a commit message to describe what you changed.
+
+
 
