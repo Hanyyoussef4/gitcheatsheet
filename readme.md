@@ -27,3 +27,9 @@ Changes the current working directory to a different folder.
 **Description:**  
 Creates a new directory (folder).
 
+
+## Command 5: touch
+
+**Description:**  
+Creates a new empty file.
+
