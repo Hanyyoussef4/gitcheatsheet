@@ -79,4 +79,10 @@ Saves staged changes to the local repository.
 You must write a commit message to describe what you changed.
 
 
+## Command 13: git push
+
+**Description:**  
+Uploads your local commits from the current branch to the remote repository (e.g., GitHub).
+
+
 
