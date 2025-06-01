@@ -51,3 +51,10 @@ Copies files or directories
 **Description:**  
 Moves or renames files and directories.
 
+
+## Command 9: clear
+
+**Description:**  
+Clears the terminal screen, giving you a clean view.
+
+
