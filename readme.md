@@ -21,3 +21,9 @@ Lists the files and directories in the current location.
 **Description:**  
 Changes the current working directory to a different folder.
 
+
+## Command 4: mkdir
+
+**Description:**  
+Creates a new directory (folder).
+
