@@ -37,4 +37,10 @@ Creates a new empty file.
 ## Command 6: rm
 
 **Description:**  
-Deletes files or directories.
+Deletes files or directories
+
+
+## Command 7: cp
+
+**Description:**
+Copies files or directories.
