@@ -92,4 +92,11 @@ Fetches changes from the remote repository and merges them into your current loc
 It’s a shortcut for `git fetch` + `git merge`.
 
 
+## Command 15: git log
+
+**Description:**  
+Displays the commit history for the current branch.  
+Each entry shows the commit hash, author, date, and message.
+
+
 
