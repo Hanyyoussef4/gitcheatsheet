@@ -100,3 +100,8 @@ Each entry shows the commit hash, author, date, and message.
 
 
 
+
+## Bonus Practice: Demo-pull-request
+
+This section was added from a branch called `Demo-pull-request` to demonstrate how pull requests work on GitHub.
+
